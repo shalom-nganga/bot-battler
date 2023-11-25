@@ -2,7 +2,7 @@ import React from 'react'
 
 function Delete({element}) {
     function handleDelete(){
-        fetch(`http://localhost:8000/bots/${element.id}`,{
+        fetch(`https://json-bot-server-3sd4.onrender.com/bots/${element.id}`,{
             method:'DELETE',
         })
         .then((res)=>{

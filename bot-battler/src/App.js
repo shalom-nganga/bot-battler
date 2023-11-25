@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   const [data, setData]=useState([])
   useEffect(()=>{
-    fetch(`http://localhost:8000/bots`)
+    fetch("https://json-bot-server-3sd4.onrender.com/bots")
     .then((res)=>res.json())
     .then((bots)=>{
       setData(bots)
