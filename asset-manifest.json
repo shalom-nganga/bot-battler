@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bot-battler/static/css/main.447ac4ed.css",
-    "main.js": "/bot-battler/static/js/main.e122f21e.js",
+    "main.js": "/bot-battler/static/js/main.73461e1a.js",
     "static/js/787.ce63cd29.chunk.js": "/bot-battler/static/js/787.ce63cd29.chunk.js",
     "index.html": "/bot-battler/index.html",
     "main.447ac4ed.css.map": "/bot-battler/static/css/main.447ac4ed.css.map",
-    "main.e122f21e.js.map": "/bot-battler/static/js/main.e122f21e.js.map",
+    "main.73461e1a.js.map": "/bot-battler/static/js/main.73461e1a.js.map",
     "787.ce63cd29.chunk.js.map": "/bot-battler/static/js/787.ce63cd29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.447ac4ed.css",
-    "static/js/main.e122f21e.js"
+    "static/js/main.73461e1a.js"
   ]
 }
